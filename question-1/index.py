@@ -3,7 +3,7 @@ num1 = input()
 print("Enter first number: ")
 num2 = input()
 
-if(num1 < num2):
+if(int(num1) < int(num2)):
     print("Greatest number is "+num2)
 else:
     print("Greatest number is "+num1)
