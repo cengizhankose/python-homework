@@ -1,6 +1,6 @@
 print("Enter first number: ")
 num1 = input()
-print("Enter first number: ")
+print("Enter second number: ")
 num2 = input()
 
 if(int(num1) < int(num2)):
